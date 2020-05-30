@@ -1,0 +1,2 @@
+crop.py nin oldugu dizinde cmd veya powershell i çalıştırdıktan sonra python crop.py resim_Adi yazılır resimin büyüklügüne göre biraz beklenebilir
+açılan resimde kapatmak istenen yer mouse yardımıyla kare içine alınarak  seçildikten sonra otomatik gizleme başlar
